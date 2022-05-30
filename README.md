@@ -2,19 +2,12 @@
 ##
 
 - <img src="https://img.icons8.com/emoji/20/000000/man-with-beard-light-skin-tone.png"/> Tenho 25 anos, sou brasileiro e moro em Salvador - BA.
-
 - :books: Atualmente sou estudante de desenvolvimento web Full Stack na [Trybe](https://www.betrybe.com/).
- 
--  :mortar_board: Desenvolvedor Front-End <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/30/000000/external-front-end-web-development-flaticons-flat-flat-icons.png"/>.
- 
--  :mortar_board: Engenheiro Civil - Bacharelado <img src="https://img.icons8.com/color/30/000000/engineer-skin-type-1.png"/>.
- 
--  :mortar_board: Técnico em Administração de Empresas <img src="https://img.icons8.com/nolan/30/project-management.png"/>.
-
+-  :mortar_board: Desenvolvedor Front-End.
+-  :mortar_board: Engenheiro Civil - Bacharelado.
+-  :mortar_board: Técnico em Administração de Empresas.
 - 👯 Estou procurando aperfeiçoar minhas habilidades como desenvolvedor web.
-
 - :email: Você pode entrar em contato comigo em: contatoitallo@hotmail.com.
-
 - ⚡ Amo estudar ciencias exatas e suas tecnologias, correr na praia :ocean: e ficar com família e amigos :raised_hands:.
 
 
