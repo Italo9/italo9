@@ -10,9 +10,12 @@
 - ⚡ Amo estudar ciencias exatas e suas tecnologias, correr na praia :ocean: e ficar com família e amigos :raised_hands:.
 
 
-## Habilidades
+## Habilidades Front-End
 
-[<img src="https://img.icons8.com/color/50/000000/react-native.png"/>](https://pt-br.reactjs.org/)[<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>](https://www.w3schools.com/html/)[<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>](https://getbootstrap.com/)[<img src="https://img.icons8.com/color/50/000000/css3.png"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)[<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>](https://blog.betrybe.com/javascript/)[<img src="https://img.icons8.com/color/50/000000/redux.png"/>](https://redux.js.org/)[<img src="https://img.icons8.com/fluency/50/000000/docker.png"/>](https://docs.docker.com/)[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>](https://jestjs.io/pt-BR/)[<img src="https://img.icons8.com/ios-filled/50/000000/git.png"/>](https://git-scm.com/)[<img src="https://img.icons8.com/color/50/000000/mysql--v1.png"/>](https://www.mysql.com/)
+[<img src="https://img.icons8.com/color/50/000000/react-native.png"/>](https://pt-br.reactjs.org/)[<img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/>](https://www.w3schools.com/html/)[<img src="https://img.icons8.com/color/50/000000/bootstrap.png"/>](https://getbootstrap.com/)[<img src="https://img.icons8.com/color/50/000000/css3.png"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)[<img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/>](https://blog.betrybe.com/javascript/)[<img src="https://img.icons8.com/color/50/000000/redux.png"/>](https://redux.js.org/)[<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jest-can-collect-code-coverage-information-from-entire-projects-logo-color-tal-revivo.png"/>](https://jestjs.io/pt-BR/)[<img src="https://img.icons8.com/ios-filled/50/000000/git.png"/>](https://git-scm.com/)
+
+## Habilidades Back-End
+[<img src="https://img.icons8.com/color/50/000000/mysql--v1.png"/>](https://www.mysql.com/)[<img src="https://img.icons8.com/fluency/50/000000/docker.png"/>](https://docs.docker.com/)
 
 ## Redes Sociais
 [<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/%C3%ADtalolima9/)
