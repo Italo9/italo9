@@ -8,6 +8,7 @@
 - 👯 Estou procurando aperfeiçoar minhas habilidades como desenvolvedor web.
 - :email: Você pode entrar em contato comigo em: contatoitallo@hotmail.com.
 - ⚡ Amo estudar ciencias exatas e suas tecnologias, correr na praia :ocean: e ficar com a família :raised_hands:.
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=italo9&show_icons=true&locale=en&layout=compact" alt="italo9" /></p>
 
 
 ## Habilidades Front-End
@@ -17,5 +18,5 @@
 ## Habilidades Back-End
 [<img src="https://img.icons8.com/color/50/000000/mysql--v1.png"/>](https://www.mysql.com/)[<img src="https://img.icons8.com/fluency/50/000000/docker.png"/>](https://docs.docker.com/)
 
-## Redes Sociais
+## Rede Social
 [<img src="https://img.icons8.com/color/50/000000/linkedin.png"/>](https://www.linkedin.com/in/%C3%ADtalolima9/)
