@@ -8,8 +8,11 @@
 - 👯 Estou procurando aperfeiçoar minhas habilidades como desenvolvedor web.
 - :email: Você pode entrar em contato comigo em: contatoitallo@hotmail.com.
 - ⚡ Amo estudar ciencias exatas e suas tecnologias, correr na praia :ocean: e ficar com a família :raised_hands:.
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=italo9&show_icons=true&locale=en&layout=compact" alt="italo9" /></p>
-
+<header align="center">
+  <a href="https://github.com/italo9">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italo9&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italo9&layout=compact&langs_count=7&theme=light"/>
+</header>
 
 ## Habilidades Front-End
 
