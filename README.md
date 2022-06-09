@@ -7,7 +7,7 @@
 -  :mortar_board: Engenheiro.
 - 👯 Estou procurando aperfeiçoar minhas habilidades como desenvolvedor web.
 - :email: Você pode entrar em contato comigo em: contatoitallo@hotmail.com.
-- ⚡ Amo estudar ciencias exatas e suas tecnologias, correr na praia :ocean: e ficar em família :raised_hands:.
+- ⚡ Amo estudar ciencias exatas e suas tecnologias, correr na praia :ocean: e ficar com a família :raised_hands:.
 
 
 ## Habilidades Front-End
