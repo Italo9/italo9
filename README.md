@@ -7,7 +7,7 @@
 -  :mortar_board: Engenheiro.
 - 👯 Estou procurando aperfeiçoar minhas habilidades como desenvolvedor web.
 - :email: Você pode entrar em contato comigo em: contatoitallo@hotmail.com.
-- ⚡ Amo estudar ciencias exatas e suas tecnologias, correr na praia :ocean: e ficar com a família :raised_hands:.
+- ⚡ Amo estudar exatas e suas tecnologias, correr na praia :ocean: e ficar com a família :raised_hands:.
 <header align="center">
   <a href="https://github.com/italo9">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=italo9&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
