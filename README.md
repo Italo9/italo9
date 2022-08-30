@@ -2,7 +2,7 @@
 ##
 
 - <img src="https://img.icons8.com/emoji/20/000000/man-with-beard-light-skin-tone.png"/> Tenho 25 anos, sou brasileiro e moro em Salvador - BA.
-- :books: Engenharia de Software (a começar:2023).
+- :books: Esp.Engenharia de Software (a começar: 2023).
 -  :mortar_board: Desenvolvedor web Full Stack - [Trybe](https://www.betrybe.com/).
 -  :mortar_board: Engenheiro.
 - 👯 Estou procurando aperfeiçoar minhas habilidades como desenvolvedor web.
