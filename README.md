@@ -16,10 +16,9 @@
 
 ## 
 
-<h1 align="center">🛠️&ensp; <i>Habilidades</i> &ensp;🛠️</h1>
-<img align="center" height="295px" width="300px" alt="quote" src="./images/coding.gif"/>
-  
-  <table align="right" height="300px">
+<h2 align="center">🛠️&ensp; <i>Habilidades</i> &ensp;🛠️</h2>
+<img align="left" height="295px" width="300px" alt="quote" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
+<table align="right" height="300px">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=vscode" width="65px" alt="visual studio code icon"/><br>
