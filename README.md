@@ -288,6 +288,14 @@
         </b>
       </sub>
     </td>
+     <td align="center">
+      <img src="https://github.com/sempostma/office365-icons/raw/master/png/256/excel.png" width="65px" alt="excel icon"/><br>
+      <sub>
+        <b>
+          <pre>Excel</pre>
+        </b>
+      </sub>
+    </td>
 </table> 
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
