@@ -17,7 +17,7 @@
 ## 
 
 <h2 align="center">🛠️&ensp; <i>Habilidades</i> &ensp;🛠️</h2>
-<img align="left" height="295px" width="300px" alt="quote" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
+<img align="left" height="195px" width="200px" alt="quote" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"/>
 <table align="right" height="300px">
   <tr>
     <td align="center">
