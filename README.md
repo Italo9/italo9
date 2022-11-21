@@ -296,6 +296,48 @@
         </b>
       </sub>
     </td>
+     <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="65px" alt="express icon"/><br>
+      <sub>
+        <b>
+          <pre>Express</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mongoose.png" width="65px" alt="mongoose icon"/><br>
+      <sub>
+        <b>
+          <pre>Mongoose</pre>
+        </b>
+      </sub>
+    </td>
+   </tr>
+    <tr>
+     <td align="center">
+      <img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/mocha.svg" width="65px" alt="mocha icon"/><br>
+      <sub>
+        <b>
+          <pre>Mocha</pre>
+        </b>
+      </sub>
+    </td>
+      <td align="center">
+      <img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/sinon.png" width="65px" alt="sinon icon"/><br>
+      <sub>
+        <b>
+          <pre>Sinon</pre>
+        </b>
+      </sub>
+    </td>
+     <td align="center">
+      <img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/chai.png" width="65px" alt="chai icon"/><br>
+      <sub>
+        <b>
+          <pre>Chai</pre>
+        </b>
+      </sub>
+    </td>
 </table> 
   
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
