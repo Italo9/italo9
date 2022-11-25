@@ -339,4 +339,4 @@
 <br>
   
 ## Rede Social
-[<img src="https://skillicons.dev/icons?i=linkedin"/>](https://www.linkedin.com/in/%C3%ADtalolima9/)
+[<img src="https://skillicons.dev/icons?i=linkedin" width="35px" />](https://www.linkedin.com/in/%C3%ADtalolima9/)
