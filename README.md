@@ -1,8 +1,6 @@
 
 ---
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Italo9&show_icons=true&title_color=007bff&text_color=000000&icon_color=007bff&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
-
 ### Olá, meu nome é Ítalo!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=ITALO&color=007bff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
@@ -13,6 +11,25 @@
 
 **Software Engineer** \
 [**Central IT**](https://centralit.com.br/) • Full-time
+
+ <br/>
+<br/>
+
+
+  <!-- Conteúdo à direita -->
+  <div>
+    <table>
+      <tr>
+        <td>
+          <img align='left' src="https://github-readme-stats.vercel.app/api?username=Italo9&show_icons=true&title_color=007bff&text_color=000000&icon_color=007bff&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
+        </td>
+        <td>
+          <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo9&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
+        </td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 
 
