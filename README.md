@@ -1,8 +1,25 @@
 
 ---
 
-### Olá, me chamo Ítalo 👋  
-##
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Italo9&show_icons=true&title_color=007bff&text_color=000000&icon_color=007bff&bg_color=ffffff&cache_seconds=2300" alt="ilustração do status do github">
+
+### Olá, meu nome é Ítalo!
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=ITALO&color=007bff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p> Trabalhando na Central IT - Tecnologia em Negócios<br/> Desenvolvedor Full Stack</p>
+
+[<img align="left" height="94px" width="204px" alt="Warpnet" src="https://centralit.com.br/wp-content/webp-express/webp-images/uploads/2024/10/Logo_CentralIT.png.webp"/>](https://centralit.com.br/)
+
+**Software Engineer** \
+[**Central IT**](https://centralit.com.br/) • Full-time
+
+
+
+<br/>
+
+
+<br/>
 
 - <img src="https://img.icons8.com/emoji/20/000000/man-with-beard-light-skin-tone.png"/> Sou brasileiro e moro em Salvador - BA.  
 - :books: Esp. Engenharia de Software e Gestão de Projetos.  
