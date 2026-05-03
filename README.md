@@ -36,7 +36,7 @@ const italo = {
 
 ## ⚡ Sobre mim
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Italo9&show_icons=true&title_color=e8a020&text_color=e8e4dc&icon_color=e8a020&bg_color=141414&hide_border=true&cache_seconds=2300" width="420"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Italo9&show_icons=true&theme=dark&title_color=e8a020&icon_color=e8a020&hide_border=true&cache_seconds=2300" width="420"/>
 
 - 🏗️ **Engenheiro Civil** que migrou para software com propósito
 - 💼 **Software Engineer** @ [Central IT](https://centralit.com.br) · Full-time
@@ -94,8 +94,8 @@ const italo = {
 
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/docs)
 [![Cypress](https://skillicons.dev/icons?i=cypress)](https://docs.cypress.io)
-[![Swagger](https://skillicons.dev/icons?i=swagger)](https://swagger.io/docs)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs)
+[![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/guide)
 
 </div>
 
@@ -105,7 +105,7 @@ const italo = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo9&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=e8a020&text_color=e8e4dc&bg_color=141414" width="380"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Italo9&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=e8a020" width="380"/>
 
 <br/><br/>
 
