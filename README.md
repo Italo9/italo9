@@ -100,6 +100,16 @@ const italo = {
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Italo9&theme=dark&hide_border=true&ring=e8a020&fire=e8a020&currStreakLabel=e8a020&background=141414&stroke=2a2a2a&currStreakNum=e8e4dc&sideNums=e8e4dc&sideLabels=7a7570&dates=7a7570" width="480"/>
+
+</div>
+
+---
+
 ## 🎓 Certificações
 
 | Certificado | Instituição | Ano |
