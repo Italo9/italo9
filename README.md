@@ -36,7 +36,6 @@ const italo = {
 
 ## ⚡ Sobre mim
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Italo9&show_icons=true&theme=dark&title_color=e8a020&icon_color=e8a020&hide_border=true&cache_seconds=2300" width="420"/>
 
 - 🏗️ **Engenheiro Civil** que migrou para software com propósito
 - 💼 **Software Engineer** @ [Central IT](https://centralit.com.br) · Full-time
@@ -96,20 +95,6 @@ const italo = {
 [![Cypress](https://skillicons.dev/icons?i=cypress)](https://docs.cypress.io)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://learning.postman.com/docs)
 [![Vitest](https://skillicons.dev/icons?i=vitest)](https://vitest.dev/guide)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Italo9&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=e8a020" width="380"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Italo9&theme=dark&hide_border=true&ring=e8a020&fire=e8a020&currStreakLabel=e8a020&background=141414&stroke=2a2a2a&currStreakNum=e8e4dc&sideNums=e8e4dc&sideLabels=7a7570&dates=7a7570" width="480"/>
 
 </div>
 
